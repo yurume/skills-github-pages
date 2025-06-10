@@ -1,4 +1,4 @@
 ---
-title: "最初の投稿"
+title: "MyFirstPost"
 date: 2025-06-11
 ---
